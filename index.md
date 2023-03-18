@@ -1,6 +1,6 @@
 ---
 title: NisargaTheNature
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://photos.app.goo.gl/99MTSAdPy6i2NZRW9"
 feature_text: |
   ## Welcome to NisargaTheNature!
 ---
